@@ -1,0 +1,5 @@
+Create 2 tables, 1 for the number of SalesPerson with Attrition and the other for the number of SalesPerson with NonAttrition.
+Create 3 tables, 1 for all Salesperson, then the other 2 for SalesPerson with Attrition and NonAttrition.  
+Each table should contain the Average_Monthly_income, Min_Monthly_Income, and Max_Monthly_Income
+Create 2 more tables 1 for SalesPerson with Attrition and other for SalesPerson with NonAttrition.  
+The table should contain the Monthly_income and the count of the SalesPerson Making that amount of Income. Label these "monthlyincome" and "count"
