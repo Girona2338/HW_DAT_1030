@@ -1,0 +1,14 @@
+The Dataset used is a fictional data set found at Kaggle.com at the below link
+
+https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
+
+You will require a kaggle account which is free and you can sign up / attain one below.
+
+https://www.kaggle.com/account/login?phase=startRegisterTab
+
+The dataset contains various characteristics about the employee and their job / position.
+
+Some of the characteristics include education level, position, business travel, gender, department, Income, attrition, job satisfaction, distance of travel.
+
+The field of interest and used in the analysis is the attrition field.  The Attritioned employees show the characteristic at the time they left their position, thus they are no longer employees at this fitious company.
+
