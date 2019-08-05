@@ -1,0 +1,5 @@
+Load the Dataset as employee
+Create a new table called employee_sales selecting only the columns Attrition, Department, Jobsatisfaction and MonthlyIncome from employee
+Round MonthlyIncome to the nearest $1000
+Filter the data to contain only those items in the Sales Department
+Sort the Data in descending order by JobSatisfaction
